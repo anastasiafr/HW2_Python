@@ -1,2 +1,4 @@
-my_list = list(range(18, 1, -4))
-print(my_list)
+lst = list(range(18, 1, -4))
+
+
+print(lst)
